@@ -20,7 +20,7 @@
                 <div class="subheader">
                     <div id="phone" class="pull-left">
                          <img src="images/email.png" alt="phone"/>
-                            Envio gratis desde $1000.00
+                            Siempre a tu servicio
                     </div>
                     <div id="email" class="pull-right p-container">
                         <?php
